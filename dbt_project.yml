@@ -11,9 +11,9 @@ test-paths: ["tests"]
 analysis-paths: ["analysis"]
 macro-paths: ["macros"]
 
-target-path: "target"
+target-path: "docs"
 clean-targets:
-    - "target"
+    - "docs"
     - "dbt_modules"
     - "logs"
 
